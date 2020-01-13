@@ -1,0 +1,39 @@
+body {
+	background-color: #e5e5e5;
+}
+.box {
+	background-color: black ;
+	width: 400px;
+	height: 200px;
+	margin: 225px auto;
+	padding: 20px;
+}
+#time {
+	background-color: white;
+	text-align: center;
+	font-size: 60px;
+	height: 130px ;
+	padding-top: 60px;
+	padding-bottom: 10px;
+	font-family: Copse;
+}
+.button {
+	background-color: black;
+	color: white;
+	padding: 20px;
+	text-align: center;
+  	font-size: 60px;
+  	margin-top: 25px;
+  	transition-duration: 0.4s;
+  	cursor: pointer;
+}
+.darebutton {
+  background-color: white;
+  color: black;
+  border: 20px solid #000000;
+}
+
+.darebutton:hover {
+  background-color: #000000;
+  color: white;
+}
