@@ -17,12 +17,24 @@ body {
 	padding-bottom: 10px;
 	font-family: Copse;
 }
+.date {
+  width: 100px;
+  background-color: white;
+  text-align: center;
+  font-size: 15px;
+  font-family: sans-serif;
+  font-weight: bold;
+  padding: 10px;
+  margin: 10px auto;
+  border: solid 5px;
+
+}
 .button {
 	background-color: black;
 	color: white;
 	padding: 20px;
 	text-align: center;
-  	font-size: 60px;
+  	font-size: 50px;
   	margin-top: 25px;
   	transition-duration: 0.4s;
   	cursor: pointer;
